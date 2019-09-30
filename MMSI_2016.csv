@@ -1,0 +1,36 @@
+Etiquetas de fila	Promedio de P12_1	Promedio de P12_2							Numero estado	Cambio	Estado	Rank					RANK	
+1	5.4	4.7	0.7						31	1.1	Yucatán	1			1	Aguascalientes	13	0.7
+2	5.8	5.3	0.4						24	1.0	San Luis Potosí	2			2	Baja California	30	0.4
+3	5.4	4.9	0.5						21	1.0	Puebla	3			3	Baja California Sur	27	0.5
+4	4.5	3.7	0.7						23	0.9	Quintana Roo	4			4	Campeche	11	0.7
+5	5.6	5.0	0.6						13	0.9	Hidalgo	5	0.85		5	Coahuila de Zaragoza	22	0.6
+6	5.3	4.8	0.5						12	0.8	Guerrero	6			6	Colima	24	0.5
+7	4.3	3.7	0.6						29	0.8	Tlaxcala	7			7	Chiapas	20	0.6
+8	5.4	4.7	0.7						22	0.8	Querétaro	8			8	Chihuahua	16	0.7
+9	5.4	5.0	0.4						32	0.8	Zacatecas	9			9	Ciudad de México	31	0.4
+10	4.9	4.5	0.4						15	0.8	México	10			10	Durango	28	0.4
+11	5.4	4.7	0.7						4	0.7	Campeche	11			11	Guanajuato	12	0.7
+12	3.7	2.9	0.8						11	0.7	Guanajuato	12			12	Guerrero	6	0.8
+13	4.0	3.1	0.9						1	0.7	Aguascalientes	13			13	Hidalgo	5	0.9
+14	5.5	4.8	0.6						20	0.7	Oaxaca	14			14	Jalisco	19	0.6
+15	5.0	4.2	0.8						19	0.7	Nuevo León	15			15	México	10	0.8
+16	4.7	4.2	0.5						8	0.7	Chihuahua	16	0.65		16	Michoacán de Ocampo	25	0.5
+17	4.8	4.2	0.6						27	0.6	Tabasco	17			17	Morelos	18	0.6
+18	4.4	4.0	0.4						17	0.6	Morelos	18			18	Nayarit	29	0.4
+19	5.8	5.1	0.7						14	0.6	Jalisco	19			19	Nuevo León	15	0.7
+20	3.8	3.1	0.7						7	0.6	Chiapas	20			20	Oaxaca	14	0.7
+21	4.8	3.8	1.0						28	0.6	Tamaulipas	21			21	Puebla	3	1.0
+22	5.3	4.5	0.8						5	0.6	Coahuila de Zaragoza	22			22	Querétaro	8	0.8
+23	5.2	4.3	0.9						30	0.6	Veracruz de Ignacio de la Llave	23	0.55		23	Quintana Roo	4	0.9
+24	4.7	3.7	1.0						6	0.5	Colima	24			24	San Luis Potosí	2	1.0
+25	4.4	3.9	0.5						16	0.5	Michoacán de Ocampo	25			25	Sinaloa	26	0.5
+26	5.3	4.9	0.4						25	0.5	Sinaloa	26			26	Sonora	32	0.4
+27	4.5	3.8	0.6						3	0.5	Baja California Sur	27			27	Tabasco	17	0.6
+28	4.8	4.2	0.6						10	0.4	Durango	28			28	Tamaulipas	21	0.6
+29	5.0	4.1	0.8						18	0.4	Nayarit	29			29	Tlaxcala	7	0.8
+30	4.0	3.4	0.6						2	0.4	Baja California	30			30	Veracruz de Ignacio de la Llave	23	0.6
+31	4.8	3.7	1.1						9	0.4	Ciudad de México	31			31	Yucatán	1	1.1
+32	4.8	4.0	0.8						26	0.4	Sonora	32	0.35		32	Zacatecas	9	0.8
+Total general	4.9	4.2	0.7															0.7
+																		
+															Total general	0.7		
