@@ -1,0 +1,395 @@
+,Estrato_Socioeconómico,Perspectiva_SE_14_años,Opinión_Situación_Económica,Factor_Expansión
+0,Alto,1,1,29329
+1,Alto,1,2,43558
+2,Alto,1,3,91262
+3,Alto,1,4,37250
+4,Alto,1,5,52831
+5,Alto,1,6,34901
+6,Alto,1,7,14196
+7,Alto,1,8,6895
+8,Alto,1,10,5703
+9,Alto,2,1,546
+10,Alto,2,2,21523
+11,Alto,2,3,41881
+12,Alto,2,4,93799
+13,Alto,2,5,145889
+14,Alto,2,6,85323
+15,Alto,2,7,19686
+16,Alto,2,8,15884
+17,Alto,2,9,789
+18,Alto,3,1,3745
+19,Alto,3,2,1524
+20,Alto,3,3,40711
+21,Alto,3,4,67139
+22,Alto,3,5,271167
+23,Alto,3,6,146149
+24,Alto,3,7,79426
+25,Alto,3,8,12041
+26,Alto,3,9,1867
+27,Alto,3,10,3340
+28,Alto,4,1,8184
+29,Alto,4,2,1698
+30,Alto,4,3,15960
+31,Alto,4,4,93577
+32,Alto,4,5,240758
+33,Alto,4,6,187374
+34,Alto,4,7,157401
+35,Alto,4,8,59806
+36,Alto,4,9,2210
+37,Alto,4,10,5893
+38,Alto,5,1,16411
+39,Alto,5,2,7940
+40,Alto,5,3,21230
+41,Alto,5,4,71898
+42,Alto,5,5,326894
+43,Alto,5,6,160163
+44,Alto,5,7,260611
+45,Alto,5,8,148862
+46,Alto,5,9,10748
+47,Alto,5,10,1906
+48,Alto,6,1,2980
+49,Alto,6,2,12182
+50,Alto,6,3,25195
+51,Alto,6,4,58249
+52,Alto,6,5,70324
+53,Alto,6,6,221030
+54,Alto,6,7,236206
+55,Alto,6,8,142395
+56,Alto,6,9,4056
+57,Alto,6,10,8579
+58,Alto,7,2,2060
+59,Alto,7,3,4725
+60,Alto,7,4,22073
+61,Alto,7,5,148375
+62,Alto,7,6,146009
+63,Alto,7,7,239204
+64,Alto,7,8,188983
+65,Alto,7,9,24881
+66,Alto,7,10,5360
+67,Alto,8,1,16415
+68,Alto,8,2,2087
+69,Alto,8,3,6743
+70,Alto,8,4,42512
+71,Alto,8,5,158269
+72,Alto,8,6,141491
+73,Alto,8,7,201719
+74,Alto,8,8,242907
+75,Alto,8,9,6755
+76,Alto,8,10,33505
+77,Alto,9,1,773
+78,Alto,9,2,1204
+79,Alto,9,3,516
+80,Alto,9,4,8916
+81,Alto,9,5,33143
+82,Alto,9,6,40542
+83,Alto,9,7,76240
+84,Alto,9,8,102551
+85,Alto,9,9,18742
+86,Alto,10,1,1350
+87,Alto,10,2,3517
+88,Alto,10,3,3699
+89,Alto,10,4,19585
+90,Alto,10,5,32136
+91,Alto,10,6,42421
+92,Alto,10,7,31666
+93,Alto,10,8,47186
+94,Alto,10,9,10103
+95,Alto,10,10,23902
+96,Bajo,1,1,1436486
+97,Bajo,1,2,951909
+98,Bajo,1,3,708073
+99,Bajo,1,4,350516
+100,Bajo,1,5,427122
+101,Bajo,1,6,61241
+102,Bajo,1,7,23370
+103,Bajo,1,8,23814
+104,Bajo,1,9,5079
+105,Bajo,1,10,23415
+106,Bajo,2,1,140235
+107,Bajo,2,2,259990
+108,Bajo,2,3,326345
+109,Bajo,2,4,445743
+110,Bajo,2,5,466581
+111,Bajo,2,6,129602
+112,Bajo,2,7,34087
+113,Bajo,2,8,20982
+114,Bajo,2,9,8840
+115,Bajo,2,10,6663
+116,Bajo,3,1,60584
+117,Bajo,3,2,95125
+118,Bajo,3,3,199877
+119,Bajo,3,4,175169
+120,Bajo,3,5,547720
+121,Bajo,3,6,133912
+122,Bajo,3,7,65892
+123,Bajo,3,8,29803
+124,Bajo,3,9,1030
+125,Bajo,3,10,8278
+126,Bajo,4,1,32593
+127,Bajo,4,2,34912
+128,Bajo,4,3,46953
+129,Bajo,4,4,113912
+130,Bajo,4,5,282645
+131,Bajo,4,6,146810
+132,Bajo,4,7,83854
+133,Bajo,4,8,59930
+134,Bajo,4,9,2016
+135,Bajo,4,10,2913
+136,Bajo,5,1,69196
+137,Bajo,5,2,41972
+138,Bajo,5,3,94354
+139,Bajo,5,4,74256
+140,Bajo,5,5,319921
+141,Bajo,5,6,97987
+142,Bajo,5,7,200518
+143,Bajo,5,8,74371
+144,Bajo,5,9,7024
+145,Bajo,5,10,24517
+146,Bajo,6,1,13761
+147,Bajo,6,2,21691
+148,Bajo,6,3,34006
+149,Bajo,6,4,56820
+150,Bajo,6,5,119581
+151,Bajo,6,6,94994
+152,Bajo,6,7,88028
+153,Bajo,6,8,91115
+154,Bajo,6,9,9452
+155,Bajo,6,10,18689
+156,Bajo,7,1,22239
+157,Bajo,7,2,19690
+158,Bajo,7,3,10738
+159,Bajo,7,4,31960
+160,Bajo,7,5,101705
+161,Bajo,7,6,27523
+162,Bajo,7,7,65765
+163,Bajo,7,8,56574
+164,Bajo,7,9,6777
+165,Bajo,7,10,10688
+166,Bajo,8,1,6064
+167,Bajo,8,2,17115
+168,Bajo,8,3,20578
+169,Bajo,8,4,29309
+170,Bajo,8,5,82194
+171,Bajo,8,6,37943
+172,Bajo,8,7,50445
+173,Bajo,8,8,47013
+174,Bajo,8,9,17393
+175,Bajo,8,10,16779
+176,Bajo,9,1,5554
+177,Bajo,9,3,8679
+178,Bajo,9,4,6349
+179,Bajo,9,5,25084
+180,Bajo,9,6,19921
+181,Bajo,9,7,15944
+182,Bajo,9,8,10646
+183,Bajo,9,9,15452
+184,Bajo,9,10,6308
+185,Bajo,10,1,15231
+186,Bajo,10,2,7438
+187,Bajo,10,3,5247
+188,Bajo,10,4,9255
+189,Bajo,10,5,29598
+190,Bajo,10,6,6411
+191,Bajo,10,7,25374
+192,Bajo,10,8,21073
+193,Bajo,10,9,3472
+194,Bajo,10,10,49504
+195,Medio alto,1,1,211699
+196,Medio alto,1,2,94194
+197,Medio alto,1,3,234208
+198,Medio alto,1,4,191947
+199,Medio alto,1,5,243031
+200,Medio alto,1,6,74336
+201,Medio alto,1,7,37884
+202,Medio alto,1,8,17601
+203,Medio alto,1,9,2834
+204,Medio alto,1,10,1845
+205,Medio alto,2,1,17832
+206,Medio alto,2,2,40150
+207,Medio alto,2,3,161469
+208,Medio alto,2,4,382733
+209,Medio alto,2,5,405478
+210,Medio alto,2,6,142615
+211,Medio alto,2,7,69862
+212,Medio alto,2,8,29285
+213,Medio alto,2,9,6777
+214,Medio alto,2,10,3011
+215,Medio alto,3,1,29843
+216,Medio alto,3,2,29004
+217,Medio alto,3,3,144889
+218,Medio alto,3,4,223161
+219,Medio alto,3,5,877905
+220,Medio alto,3,6,272824
+221,Medio alto,3,7,187449
+222,Medio alto,3,8,39079
+223,Medio alto,3,9,7468
+224,Medio alto,3,10,922
+225,Medio alto,4,1,21366
+226,Medio alto,4,2,17843
+227,Medio alto,4,3,49650
+228,Medio alto,4,4,171814
+229,Medio alto,4,5,442519
+230,Medio alto,4,6,425510
+231,Medio alto,4,7,280206
+232,Medio alto,4,8,101725
+233,Medio alto,4,9,8739
+234,Medio alto,5,1,46949
+235,Medio alto,5,2,23812
+236,Medio alto,5,3,94681
+237,Medio alto,5,4,141220
+238,Medio alto,5,5,730333
+239,Medio alto,5,6,330449
+240,Medio alto,5,7,602367
+241,Medio alto,5,8,246740
+242,Medio alto,5,9,18411
+243,Medio alto,5,10,11328
+244,Medio alto,6,1,13637
+245,Medio alto,6,2,11774
+246,Medio alto,6,3,53971
+247,Medio alto,6,4,123202
+248,Medio alto,6,5,199008
+249,Medio alto,6,6,335674
+250,Medio alto,6,7,362514
+251,Medio alto,6,8,300348
+252,Medio alto,6,9,17741
+253,Medio alto,6,10,7237
+254,Medio alto,7,1,2559
+255,Medio alto,7,2,17369
+256,Medio alto,7,3,26841
+257,Medio alto,7,4,142448
+258,Medio alto,7,5,321263
+259,Medio alto,7,6,234876
+260,Medio alto,7,7,483528
+261,Medio alto,7,8,212232
+262,Medio alto,7,9,18563
+263,Medio alto,7,10,5962
+264,Medio alto,8,1,19187
+265,Medio alto,8,2,13442
+266,Medio alto,8,3,30466
+267,Medio alto,8,4,94216
+268,Medio alto,8,5,316546
+269,Medio alto,8,6,345722
+270,Medio alto,8,7,339839
+271,Medio alto,8,8,362512
+272,Medio alto,8,9,45473
+273,Medio alto,8,10,11977
+274,Medio alto,9,1,14289
+275,Medio alto,9,2,15429
+276,Medio alto,9,3,13212
+277,Medio alto,9,4,35373
+278,Medio alto,9,5,88408
+279,Medio alto,9,6,113175
+280,Medio alto,9,7,183662
+281,Medio alto,9,8,156082
+282,Medio alto,9,9,31143
+283,Medio alto,9,10,3001
+284,Medio alto,10,1,25477
+285,Medio alto,10,2,7932
+286,Medio alto,10,3,15750
+287,Medio alto,10,4,13977
+288,Medio alto,10,5,83821
+289,Medio alto,10,6,65916
+290,Medio alto,10,7,60273
+291,Medio alto,10,8,67267
+292,Medio alto,10,9,19462
+293,Medio alto,10,10,24352
+294,Medio bajo,1,1,1185945
+295,Medio bajo,1,2,934039
+296,Medio bajo,1,3,1241843
+297,Medio bajo,1,4,764639
+298,Medio bajo,1,5,1005120
+299,Medio bajo,1,6,244422
+300,Medio bajo,1,7,125459
+301,Medio bajo,1,8,83680
+302,Medio bajo,1,9,23623
+303,Medio bajo,1,10,39019
+304,Medio bajo,2,1,211189
+305,Medio bajo,2,2,443689
+306,Medio bajo,2,3,646695
+307,Medio bajo,2,4,1054953
+308,Medio bajo,2,5,1273893
+309,Medio bajo,2,6,401992
+310,Medio bajo,2,7,201572
+311,Medio bajo,2,8,48183
+312,Medio bajo,2,9,17361
+313,Medio bajo,2,10,1599
+314,Medio bajo,3,1,126920
+315,Medio bajo,3,2,193792
+316,Medio bajo,3,3,475036
+317,Medio bajo,3,4,773354
+318,Medio bajo,3,5,2118818
+319,Medio bajo,3,6,692434
+320,Medio bajo,3,7,384548
+321,Medio bajo,3,8,154481
+322,Medio bajo,3,9,20488
+323,Medio bajo,3,10,6107
+324,Medio bajo,4,1,122711
+325,Medio bajo,4,2,123960
+326,Medio bajo,4,3,143424
+327,Medio bajo,4,4,589729
+328,Medio bajo,4,5,1069756
+329,Medio bajo,4,6,1034969
+330,Medio bajo,4,7,645541
+331,Medio bajo,4,8,224988
+332,Medio bajo,4,9,5657
+333,Medio bajo,4,10,9978
+334,Medio bajo,5,1,182001
+335,Medio bajo,5,2,120301
+336,Medio bajo,5,3,264150
+337,Medio bajo,5,4,285333
+338,Medio bajo,5,5,1501233
+339,Medio bajo,5,6,657739
+340,Medio bajo,5,7,943781
+341,Medio bajo,5,8,344743
+342,Medio bajo,5,9,23248
+343,Medio bajo,5,10,12166
+344,Medio bajo,6,1,78542
+345,Medio bajo,6,2,57135
+346,Medio bajo,6,3,174115
+347,Medio bajo,6,4,366482
+348,Medio bajo,6,5,334045
+349,Medio bajo,6,6,640604
+350,Medio bajo,6,7,353278
+351,Medio bajo,6,8,435894
+352,Medio bajo,6,9,21640
+353,Medio bajo,6,10,14313
+354,Medio bajo,7,1,38231
+355,Medio bajo,7,2,39896
+356,Medio bajo,7,3,92639
+357,Medio bajo,7,4,229229
+358,Medio bajo,7,5,551204
+359,Medio bajo,7,6,271670
+360,Medio bajo,7,7,515023
+361,Medio bajo,7,8,274556
+362,Medio bajo,7,9,45729
+363,Medio bajo,7,10,14856
+364,Medio bajo,8,1,83643
+365,Medio bajo,8,2,81773
+366,Medio bajo,8,3,113410
+367,Medio bajo,8,4,171236
+368,Medio bajo,8,5,646383
+369,Medio bajo,8,6,388596
+370,Medio bajo,8,7,392984
+371,Medio bajo,8,8,398098
+372,Medio bajo,8,9,34165
+373,Medio bajo,8,10,12033
+374,Medio bajo,9,1,15208
+375,Medio bajo,9,2,37989
+376,Medio bajo,9,3,17383
+377,Medio bajo,9,4,65720
+378,Medio bajo,9,5,148500
+379,Medio bajo,9,6,119623
+380,Medio bajo,9,7,371050
+381,Medio bajo,9,8,183856
+382,Medio bajo,9,9,32254
+383,Medio bajo,9,10,1563
+384,Medio bajo,10,1,51295
+385,Medio bajo,10,2,16324
+386,Medio bajo,10,3,38686
+387,Medio bajo,10,4,50806
+388,Medio bajo,10,5,162986
+389,Medio bajo,10,6,63155
+390,Medio bajo,10,7,92732
+391,Medio bajo,10,8,140309
+392,Medio bajo,10,9,63168
+393,Medio bajo,10,10,55389
