@@ -1,0 +1,532 @@
+,Varible,Perspectiva_SE_14_años,Opinión_Situación_Económica,Factor_Expansión,Demográfico
+0,Blanca,1,1,281329,Origen_Racial
+1,Blanca,1,2,164285,Origen_Racial
+2,Blanca,1,3,181500,Origen_Racial
+3,Blanca,1,4,128492,Origen_Racial
+4,Blanca,1,5,141153,Origen_Racial
+5,Blanca,1,6,31989,Origen_Racial
+6,Blanca,1,7,18286,Origen_Racial
+7,Blanca,1,8,14102,Origen_Racial
+8,Blanca,1,9,6099,Origen_Racial
+9,Blanca,1,10,14094,Origen_Racial
+10,Blanca,2,1,32032,Origen_Racial
+11,Blanca,2,2,77916,Origen_Racial
+12,Blanca,2,3,90161,Origen_Racial
+13,Blanca,2,4,214449,Origen_Racial
+14,Blanca,2,5,213452,Origen_Racial
+15,Blanca,2,6,84639,Origen_Racial
+16,Blanca,2,7,22412,Origen_Racial
+17,Blanca,2,8,23584,Origen_Racial
+18,Blanca,2,9,789,Origen_Racial
+19,Blanca,3,1,16044,Origen_Racial
+20,Blanca,3,2,29138,Origen_Racial
+21,Blanca,3,3,93116,Origen_Racial
+22,Blanca,3,4,104043,Origen_Racial
+23,Blanca,3,5,333602,Origen_Racial
+24,Blanca,3,6,186562,Origen_Racial
+25,Blanca,3,7,116054,Origen_Racial
+26,Blanca,3,8,33492,Origen_Racial
+27,Blanca,3,9,14384,Origen_Racial
+28,Blanca,3,10,1668,Origen_Racial
+29,Blanca,4,1,13993,Origen_Racial
+30,Blanca,4,2,11361,Origen_Racial
+31,Blanca,4,3,25696,Origen_Racial
+32,Blanca,4,4,94826,Origen_Racial
+33,Blanca,4,5,236661,Origen_Racial
+34,Blanca,4,6,156394,Origen_Racial
+35,Blanca,4,7,138248,Origen_Racial
+36,Blanca,4,8,49176,Origen_Racial
+37,Blanca,4,9,7915,Origen_Racial
+38,Blanca,4,10,9640,Origen_Racial
+39,Blanca,5,1,56217,Origen_Racial
+40,Blanca,5,2,29754,Origen_Racial
+41,Blanca,5,3,34007,Origen_Racial
+42,Blanca,5,4,57877,Origen_Racial
+43,Blanca,5,5,402814,Origen_Racial
+44,Blanca,5,6,106259,Origen_Racial
+45,Blanca,5,7,251520,Origen_Racial
+46,Blanca,5,8,94566,Origen_Racial
+47,Blanca,5,9,5778,Origen_Racial
+48,Blanca,5,10,15033,Origen_Racial
+49,Blanca,6,1,21651,Origen_Racial
+50,Blanca,6,2,653,Origen_Racial
+51,Blanca,6,3,32953,Origen_Racial
+52,Blanca,6,4,82630,Origen_Racial
+53,Blanca,6,5,59939,Origen_Racial
+54,Blanca,6,6,198491,Origen_Racial
+55,Blanca,6,7,163414,Origen_Racial
+56,Blanca,6,8,163179,Origen_Racial
+57,Blanca,6,9,8147,Origen_Racial
+58,Blanca,6,10,14306,Origen_Racial
+59,Blanca,7,1,3373,Origen_Racial
+60,Blanca,7,2,4237,Origen_Racial
+61,Blanca,7,3,10386,Origen_Racial
+62,Blanca,7,4,43737,Origen_Racial
+63,Blanca,7,5,145454,Origen_Racial
+64,Blanca,7,6,68328,Origen_Racial
+65,Blanca,7,7,226987,Origen_Racial
+66,Blanca,7,8,126390,Origen_Racial
+67,Blanca,7,9,21854,Origen_Racial
+68,Blanca,7,10,3861,Origen_Racial
+69,Blanca,8,1,8287,Origen_Racial
+70,Blanca,8,2,11147,Origen_Racial
+71,Blanca,8,3,25078,Origen_Racial
+72,Blanca,8,4,46691,Origen_Racial
+73,Blanca,8,5,115049,Origen_Racial
+74,Blanca,8,6,90500,Origen_Racial
+75,Blanca,8,7,121416,Origen_Racial
+76,Blanca,8,8,212564,Origen_Racial
+77,Blanca,8,9,12622,Origen_Racial
+78,Blanca,8,10,17028,Origen_Racial
+79,Blanca,9,1,2851,Origen_Racial
+80,Blanca,9,2,8817,Origen_Racial
+81,Blanca,9,3,7320,Origen_Racial
+82,Blanca,9,4,16180,Origen_Racial
+83,Blanca,9,5,49057,Origen_Racial
+84,Blanca,9,6,41998,Origen_Racial
+85,Blanca,9,7,104252,Origen_Racial
+86,Blanca,9,8,114093,Origen_Racial
+87,Blanca,9,9,26477,Origen_Racial
+88,Blanca,10,1,12259,Origen_Racial
+89,Blanca,10,2,4227,Origen_Racial
+90,Blanca,10,3,19370,Origen_Racial
+91,Blanca,10,4,29555,Origen_Racial
+92,Blanca,10,5,45592,Origen_Racial
+93,Blanca,10,6,30039,Origen_Racial
+94,Blanca,10,7,43383,Origen_Racial
+95,Blanca,10,8,41613,Origen_Racial
+96,Blanca,10,9,23688,Origen_Racial
+97,Blanca,10,10,35303,Origen_Racial
+98,Indígena,1,1,942353,Origen_Racial
+99,Indígena,1,2,683510,Origen_Racial
+100,Indígena,1,3,529634,Origen_Racial
+101,Indígena,1,4,311098,Origen_Racial
+102,Indígena,1,5,351857,Origen_Racial
+103,Indígena,1,6,70829,Origen_Racial
+104,Indígena,1,7,44791,Origen_Racial
+105,Indígena,1,8,30608,Origen_Racial
+106,Indígena,1,9,1043,Origen_Racial
+107,Indígena,1,10,29934,Origen_Racial
+108,Indígena,2,1,102011,Origen_Racial
+109,Indígena,2,2,146638,Origen_Racial
+110,Indígena,2,3,234270,Origen_Racial
+111,Indígena,2,4,361943,Origen_Racial
+112,Indígena,2,5,395697,Origen_Racial
+113,Indígena,2,6,112889,Origen_Racial
+114,Indígena,2,7,54540,Origen_Racial
+115,Indígena,2,8,9018,Origen_Racial
+116,Indígena,2,9,7522,Origen_Racial
+117,Indígena,2,10,2540,Origen_Racial
+118,Indígena,3,1,50725,Origen_Racial
+119,Indígena,3,2,71687,Origen_Racial
+120,Indígena,3,3,178694,Origen_Racial
+121,Indígena,3,4,154080,Origen_Racial
+122,Indígena,3,5,526867,Origen_Racial
+123,Indígena,3,6,173664,Origen_Racial
+124,Indígena,3,7,44265,Origen_Racial
+125,Indígena,3,8,46810,Origen_Racial
+126,Indígena,3,9,3207,Origen_Racial
+127,Indígena,3,10,6207,Origen_Racial
+128,Indígena,4,1,19275,Origen_Racial
+129,Indígena,4,2,20146,Origen_Racial
+130,Indígena,4,3,51359,Origen_Racial
+131,Indígena,4,4,141687,Origen_Racial
+132,Indígena,4,5,190115,Origen_Racial
+133,Indígena,4,6,172556,Origen_Racial
+134,Indígena,4,7,79705,Origen_Racial
+135,Indígena,4,8,35372,Origen_Racial
+136,Indígena,4,9,1779,Origen_Racial
+137,Indígena,4,10,2510,Origen_Racial
+138,Indígena,5,1,60310,Origen_Racial
+139,Indígena,5,2,33461,Origen_Racial
+140,Indígena,5,3,88605,Origen_Racial
+141,Indígena,5,4,50211,Origen_Racial
+142,Indígena,5,5,221292,Origen_Racial
+143,Indígena,5,6,122669,Origen_Racial
+144,Indígena,5,7,106777,Origen_Racial
+145,Indígena,5,8,70857,Origen_Racial
+146,Indígena,5,9,2866,Origen_Racial
+147,Indígena,5,10,8383,Origen_Racial
+148,Indígena,6,1,15764,Origen_Racial
+149,Indígena,6,2,23899,Origen_Racial
+150,Indígena,6,3,39366,Origen_Racial
+151,Indígena,6,4,47444,Origen_Racial
+152,Indígena,6,5,89947,Origen_Racial
+153,Indígena,6,6,109981,Origen_Racial
+154,Indígena,6,7,65386,Origen_Racial
+155,Indígena,6,8,89778,Origen_Racial
+156,Indígena,6,9,8125,Origen_Racial
+157,Indígena,6,10,1996,Origen_Racial
+158,Indígena,7,1,13167,Origen_Racial
+159,Indígena,7,2,8129,Origen_Racial
+160,Indígena,7,3,25872,Origen_Racial
+161,Indígena,7,4,54244,Origen_Racial
+162,Indígena,7,5,73675,Origen_Racial
+163,Indígena,7,6,38417,Origen_Racial
+164,Indígena,7,7,51943,Origen_Racial
+165,Indígena,7,8,47194,Origen_Racial
+166,Indígena,7,9,2965,Origen_Racial
+167,Indígena,7,10,7928,Origen_Racial
+168,Indígena,8,1,22598,Origen_Racial
+169,Indígena,8,2,37568,Origen_Racial
+170,Indígena,8,3,18195,Origen_Racial
+171,Indígena,8,4,35683,Origen_Racial
+172,Indígena,8,5,94866,Origen_Racial
+173,Indígena,8,6,57604,Origen_Racial
+174,Indígena,8,7,50648,Origen_Racial
+175,Indígena,8,8,56071,Origen_Racial
+176,Indígena,8,9,3898,Origen_Racial
+177,Indígena,8,10,10451,Origen_Racial
+178,Indígena,9,1,1345,Origen_Racial
+179,Indígena,9,2,7234,Origen_Racial
+180,Indígena,9,3,6129,Origen_Racial
+181,Indígena,9,4,8402,Origen_Racial
+182,Indígena,9,5,13145,Origen_Racial
+183,Indígena,9,6,39115,Origen_Racial
+184,Indígena,9,7,27098,Origen_Racial
+185,Indígena,9,8,19033,Origen_Racial
+186,Indígena,9,10,3703,Origen_Racial
+187,Indígena,10,1,22887,Origen_Racial
+188,Indígena,10,2,4904,Origen_Racial
+189,Indígena,10,3,1893,Origen_Racial
+190,Indígena,10,4,5802,Origen_Racial
+191,Indígena,10,5,25911,Origen_Racial
+192,Indígena,10,6,16112,Origen_Racial
+193,Indígena,10,7,23576,Origen_Racial
+194,Indígena,10,8,10405,Origen_Racial
+195,Indígena,10,9,665,Origen_Racial
+196,Indígena,10,10,19866,Origen_Racial
+197,Mestiza,1,1,965216,Origen_Racial
+198,Mestiza,1,2,854298,Origen_Racial
+199,Mestiza,1,3,1190042,Origen_Racial
+200,Mestiza,1,4,745910,Origen_Racial
+201,Mestiza,1,5,987468,Origen_Racial
+202,Mestiza,1,6,264447,Origen_Racial
+203,Mestiza,1,7,121295,Origen_Racial
+204,Mestiza,1,8,60118,Origen_Racial
+205,Mestiza,1,9,19627,Origen_Racial
+206,Mestiza,1,10,19041,Origen_Racial
+207,Mestiza,2,1,201881,Origen_Racial
+208,Mestiza,2,2,407097,Origen_Racial
+209,Mestiza,2,3,637757,Origen_Racial
+210,Mestiza,2,4,1131764,Origen_Racial
+211,Mestiza,2,5,1403223,Origen_Racial
+212,Mestiza,2,6,485648,Origen_Racial
+213,Mestiza,2,7,225845,Origen_Racial
+214,Mestiza,2,8,64462,Origen_Racial
+215,Mestiza,2,9,18481,Origen_Racial
+216,Mestiza,2,10,8733,Origen_Racial
+217,Mestiza,3,1,126578,Origen_Racial
+218,Mestiza,3,2,157842,Origen_Racial
+219,Mestiza,3,3,480682,Origen_Racial
+220,Mestiza,3,4,837568,Origen_Racial
+221,Mestiza,3,5,2483280,Origen_Racial
+222,Mestiza,3,6,772923,Origen_Racial
+223,Mestiza,3,7,473844,Origen_Racial
+224,Mestiza,3,8,135292,Origen_Racial
+225,Mestiza,3,9,11039,Origen_Racial
+226,Mestiza,3,10,8813,Origen_Racial
+227,Mestiza,4,1,129626,Origen_Racial
+228,Mestiza,4,2,112319,Origen_Racial
+229,Mestiza,4,3,127925,Origen_Racial
+230,Mestiza,4,4,579280,Origen_Racial
+231,Mestiza,4,5,1349960,Origen_Racial
+232,Mestiza,4,6,1277458,Origen_Racial
+233,Mestiza,4,7,791061,Origen_Racial
+234,Mestiza,4,8,305291,Origen_Racial
+235,Mestiza,4,9,7747,Origen_Racial
+236,Mestiza,4,10,3146,Origen_Racial
+237,Mestiza,5,1,146036,Origen_Racial
+238,Mestiza,5,2,103891,Origen_Racial
+239,Mestiza,5,3,283181,Origen_Racial
+240,Mestiza,5,4,393193,Origen_Racial
+241,Mestiza,5,5,1886994,Origen_Racial
+242,Mestiza,5,6,886934,Origen_Racial
+243,Mestiza,5,7,1415921,Origen_Racial
+244,Mestiza,5,8,535114,Origen_Racial
+245,Mestiza,5,9,46184,Origen_Racial
+246,Mestiza,5,10,9757,Origen_Racial
+247,Mestiza,6,1,48975,Origen_Racial
+248,Mestiza,6,2,61802,Origen_Racial
+249,Mestiza,6,3,168166,Origen_Racial
+250,Mestiza,6,4,410585,Origen_Racial
+251,Mestiza,6,5,505507,Origen_Racial
+252,Mestiza,6,6,842211,Origen_Racial
+253,Mestiza,6,7,724741,Origen_Racial
+254,Mestiza,6,8,632368,Origen_Racial
+255,Mestiza,6,9,29844,Origen_Racial
+256,Mestiza,6,10,22054,Origen_Racial
+257,Mestiza,7,1,31405,Origen_Racial
+258,Mestiza,7,2,47953,Origen_Racial
+259,Mestiza,7,3,91623,Origen_Racial
+260,Mestiza,7,4,239894,Origen_Racial
+261,Mestiza,7,5,753741,Origen_Racial
+262,Mestiza,7,6,509153,Origen_Racial
+263,Mestiza,7,7,911965,Origen_Racial
+264,Mestiza,7,8,487415,Origen_Racial
+265,Mestiza,7,9,51500,Origen_Racial
+266,Mestiza,7,10,19359,Origen_Racial
+267,Mestiza,8,1,65952,Origen_Racial
+268,Mestiza,8,2,47031,Origen_Racial
+269,Mestiza,8,3,95660,Origen_Racial
+270,Mestiza,8,4,204337,Origen_Racial
+271,Mestiza,8,5,816215,Origen_Racial
+272,Mestiza,8,6,685931,Origen_Racial
+273,Mestiza,8,7,727731,Origen_Racial
+274,Mestiza,8,8,673403,Origen_Racial
+275,Mestiza,8,9,59455,Origen_Racial
+276,Mestiza,8,10,39858,Origen_Racial
+277,Mestiza,9,1,24601,Origen_Racial
+278,Mestiza,9,2,33602,Origen_Racial
+279,Mestiza,9,3,20815,Origen_Racial
+280,Mestiza,9,4,81509,Origen_Racial
+281,Mestiza,9,5,187947,Origen_Racial
+282,Mestiza,9,6,180260,Origen_Racial
+283,Mestiza,9,7,450209,Origen_Racial
+284,Mestiza,9,8,251004,Origen_Racial
+285,Mestiza,9,9,66696,Origen_Racial
+286,Mestiza,9,10,7169,Origen_Racial
+287,Mestiza,10,1,39725,Origen_Racial
+288,Mestiza,10,2,14742,Origen_Racial
+289,Mestiza,10,3,38418,Origen_Racial
+290,Mestiza,10,4,48191,Origen_Racial
+291,Mestiza,10,5,174022,Origen_Racial
+292,Mestiza,10,6,119253,Origen_Racial
+293,Mestiza,10,7,123206,Origen_Racial
+294,Mestiza,10,8,166465,Origen_Racial
+295,Mestiza,10,9,50182,Origen_Racial
+296,Mestiza,10,10,60686,Origen_Racial
+297,Negra o Mulata,1,1,151131,Origen_Racial
+298,Negra o Mulata,1,2,76311,Origen_Racial
+299,Negra o Mulata,1,3,79918,Origen_Racial
+300,Negra o Mulata,1,4,52424,Origen_Racial
+301,Negra o Mulata,1,5,23146,Origen_Racial
+302,Negra o Mulata,1,6,14401,Origen_Racial
+303,Negra o Mulata,1,7,3677,Origen_Racial
+304,Negra o Mulata,1,10,1836,Origen_Racial
+305,Negra o Mulata,2,1,6881,Origen_Racial
+306,Negra o Mulata,2,2,28666,Origen_Racial
+307,Negra o Mulata,2,3,28106,Origen_Racial
+308,Negra o Mulata,2,4,47803,Origen_Racial
+309,Negra o Mulata,2,5,72799,Origen_Racial
+310,Negra o Mulata,2,6,10332,Origen_Racial
+311,Negra o Mulata,2,7,10013,Origen_Racial
+312,Negra o Mulata,2,8,2470,Origen_Racial
+313,Negra o Mulata,3,1,9568,Origen_Racial
+314,Negra o Mulata,3,2,7993,Origen_Racial
+315,Negra o Mulata,3,3,25851,Origen_Racial
+316,Negra o Mulata,3,4,11580,Origen_Racial
+317,Negra o Mulata,3,5,68765,Origen_Racial
+318,Negra o Mulata,3,6,12337,Origen_Racial
+319,Negra o Mulata,3,7,13340,Origen_Racial
+320,Negra o Mulata,3,8,2544,Origen_Racial
+321,Negra o Mulata,3,10,1047,Origen_Racial
+322,Negra o Mulata,4,1,1986,Origen_Racial
+323,Negra o Mulata,4,2,2082,Origen_Racial
+324,Negra o Mulata,4,3,14392,Origen_Racial
+325,Negra o Mulata,4,4,14226,Origen_Racial
+326,Negra o Mulata,4,5,44945,Origen_Racial
+327,Negra o Mulata,4,6,31186,Origen_Racial
+328,Negra o Mulata,4,7,60928,Origen_Racial
+329,Negra o Mulata,4,8,25664,Origen_Racial
+330,Negra o Mulata,5,1,13479,Origen_Racial
+331,Negra o Mulata,5,2,1563,Origen_Racial
+332,Negra o Mulata,5,3,616,Origen_Racial
+333,Negra o Mulata,5,4,11103,Origen_Racial
+334,Negra o Mulata,5,5,49947,Origen_Racial
+335,Negra o Mulata,5,6,51011,Origen_Racial
+336,Negra o Mulata,5,7,49113,Origen_Racial
+337,Negra o Mulata,5,8,15076,Origen_Racial
+338,Negra o Mulata,5,9,1094,Origen_Racial
+339,Negra o Mulata,5,10,9459,Origen_Racial
+340,Negra o Mulata,6,1,639,Origen_Racial
+341,Negra o Mulata,6,2,5118,Origen_Racial
+342,Negra o Mulata,6,3,9657,Origen_Racial
+343,Negra o Mulata,6,4,6355,Origen_Racial
+344,Negra o Mulata,6,5,23322,Origen_Racial
+345,Negra o Mulata,6,6,47026,Origen_Racial
+346,Negra o Mulata,6,7,25594,Origen_Racial
+347,Negra o Mulata,6,8,19823,Origen_Racial
+348,Negra o Mulata,6,9,3644,Origen_Racial
+349,Negra o Mulata,6,10,2065,Origen_Racial
+350,Negra o Mulata,7,2,1670,Origen_Racial
+351,Negra o Mulata,7,3,643,Origen_Racial
+352,Negra o Mulata,7,4,40864,Origen_Racial
+353,Negra o Mulata,7,5,10223,Origen_Racial
+354,Negra o Mulata,7,6,12803,Origen_Racial
+355,Negra o Mulata,7,7,25992,Origen_Racial
+356,Negra o Mulata,7,8,8961,Origen_Racial
+357,Negra o Mulata,7,9,3042,Origen_Racial
+358,Negra o Mulata,7,10,1858,Origen_Racial
+359,Negra o Mulata,8,1,3194,Origen_Racial
+360,Negra o Mulata,8,3,2706,Origen_Racial
+361,Negra o Mulata,8,4,2492,Origen_Racial
+362,Negra o Mulata,8,5,33665,Origen_Racial
+363,Negra o Mulata,8,6,24324,Origen_Racial
+364,Negra o Mulata,8,7,17443,Origen_Racial
+365,Negra o Mulata,8,8,12736,Origen_Racial
+366,Negra o Mulata,8,9,9201,Origen_Racial
+367,Negra o Mulata,8,10,4207,Origen_Racial
+368,Negra o Mulata,9,5,5662,Origen_Racial
+369,Negra o Mulata,9,6,4954,Origen_Racial
+370,Negra o Mulata,9,7,14656,Origen_Racial
+371,Negra o Mulata,9,8,23326,Origen_Racial
+372,Negra o Mulata,10,2,2764,Origen_Racial
+373,Negra o Mulata,10,3,878,Origen_Racial
+374,Negra o Mulata,10,4,1748,Origen_Racial
+375,Negra o Mulata,10,5,12430,Origen_Racial
+376,Negra o Mulata,10,6,3570,Origen_Racial
+377,Negra o Mulata,10,7,5241,Origen_Racial
+378,Negra o Mulata,10,8,6832,Origen_Racial
+379,Negra o Mulata,10,10,1094,Origen_Racial
+380,No sabe,1,1,514022,Origen_Racial
+381,No sabe,1,2,239019,Origen_Racial
+382,No sabe,1,3,291256,Origen_Racial
+383,No sabe,1,4,104527,Origen_Racial
+384,No sabe,1,5,217719,Origen_Racial
+385,No sabe,1,6,33234,Origen_Racial
+386,No sabe,1,7,12860,Origen_Racial
+387,No sabe,1,8,24840,Origen_Racial
+388,No sabe,1,9,4767,Origen_Racial
+389,No sabe,1,10,2799,Origen_Racial
+390,No sabe,2,1,26997,Origen_Racial
+391,No sabe,2,2,100882,Origen_Racial
+392,No sabe,2,3,165365,Origen_Racial
+393,No sabe,2,4,221269,Origen_Racial
+394,No sabe,2,5,205852,Origen_Racial
+395,No sabe,2,6,55244,Origen_Racial
+396,No sabe,2,7,12397,Origen_Racial
+397,No sabe,2,8,14800,Origen_Racial
+398,No sabe,2,9,6975,Origen_Racial
+399,No sabe,3,1,18177,Origen_Racial
+400,No sabe,3,2,52785,Origen_Racial
+401,No sabe,3,3,81469,Origen_Racial
+402,No sabe,3,4,130415,Origen_Racial
+403,No sabe,3,5,385666,Origen_Racial
+404,No sabe,3,6,95002,Origen_Racial
+405,No sabe,3,7,69812,Origen_Racial
+406,No sabe,3,8,11187,Origen_Racial
+407,No sabe,3,9,1867,Origen_Racial
+408,No sabe,3,10,912,Origen_Racial
+409,No sabe,4,1,17784,Origen_Racial
+410,No sabe,4,2,32505,Origen_Racial
+411,No sabe,4,3,33528,Origen_Racial
+412,No sabe,4,4,133533,Origen_Racial
+413,No sabe,4,5,198712,Origen_Racial
+414,No sabe,4,6,142254,Origen_Racial
+415,No sabe,4,7,97060,Origen_Racial
+416,No sabe,4,8,29776,Origen_Racial
+417,No sabe,4,9,1181,Origen_Racial
+418,No sabe,4,10,3488,Origen_Racial
+419,No sabe,5,1,38515,Origen_Racial
+420,No sabe,5,2,25356,Origen_Racial
+421,No sabe,5,3,68006,Origen_Racial
+422,No sabe,5,4,60323,Origen_Racial
+423,No sabe,5,5,311093,Origen_Racial
+424,No sabe,5,6,75659,Origen_Racial
+425,No sabe,5,7,178278,Origen_Racial
+426,No sabe,5,8,87466,Origen_Racial
+427,No sabe,5,9,3509,Origen_Racial
+428,No sabe,5,10,7285,Origen_Racial
+429,No sabe,6,1,20059,Origen_Racial
+430,No sabe,6,2,10115,Origen_Racial
+431,No sabe,6,3,36299,Origen_Racial
+432,No sabe,6,4,56592,Origen_Racial
+433,No sabe,6,5,44243,Origen_Racial
+434,No sabe,6,6,88559,Origen_Racial
+435,No sabe,6,7,59332,Origen_Racial
+436,No sabe,6,8,59791,Origen_Racial
+437,No sabe,6,10,8397,Origen_Racial
+438,No sabe,7,1,15084,Origen_Racial
+439,No sabe,7,2,17026,Origen_Racial
+440,No sabe,7,3,6419,Origen_Racial
+441,No sabe,7,4,43817,Origen_Racial
+442,No sabe,7,5,134167,Origen_Racial
+443,No sabe,7,6,51377,Origen_Racial
+444,No sabe,7,7,84207,Origen_Racial
+445,No sabe,7,8,57147,Origen_Racial
+446,No sabe,7,9,16589,Origen_Racial
+447,No sabe,7,10,3860,Origen_Racial
+448,No sabe,8,1,25278,Origen_Racial
+449,No sabe,8,2,16865,Origen_Racial
+450,No sabe,8,3,28242,Origen_Racial
+451,No sabe,8,4,29082,Origen_Racial
+452,No sabe,8,5,108600,Origen_Racial
+453,No sabe,8,6,52580,Origen_Racial
+454,No sabe,8,7,66505,Origen_Racial
+455,No sabe,8,8,85661,Origen_Racial
+456,No sabe,8,9,18610,Origen_Racial
+457,No sabe,8,10,2750,Origen_Racial
+458,No sabe,9,1,7027,Origen_Racial
+459,No sabe,9,2,4969,Origen_Racial
+460,No sabe,9,3,5526,Origen_Racial
+461,No sabe,9,4,10267,Origen_Racial
+462,No sabe,9,5,39324,Origen_Racial
+463,No sabe,9,6,18100,Origen_Racial
+464,No sabe,9,7,49503,Origen_Racial
+465,No sabe,9,8,45244,Origen_Racial
+466,No sabe,9,9,1514,Origen_Racial
+467,No sabe,10,1,18482,Origen_Racial
+468,No sabe,10,2,8574,Origen_Racial
+469,No sabe,10,3,2823,Origen_Racial
+470,No sabe,10,4,8327,Origen_Racial
+471,No sabe,10,5,47946,Origen_Racial
+472,No sabe,10,6,8929,Origen_Racial
+473,No sabe,10,7,14233,Origen_Racial
+474,No sabe,10,8,49108,Origen_Racial
+475,No sabe,10,9,21670,Origen_Racial
+476,No sabe,10,10,28533,Origen_Racial
+477,Otra Raza,1,1,9408,Origen_Racial
+478,Otra Raza,1,2,6277,Origen_Racial
+479,Otra Raza,1,3,3036,Origen_Racial
+480,Otra Raza,1,4,1901,Origen_Racial
+481,Otra Raza,1,5,6761,Origen_Racial
+482,Otra Raza,1,8,2322,Origen_Racial
+483,Otra Raza,1,10,2278,Origen_Racial
+484,Otra Raza,2,2,4153,Origen_Racial
+485,Otra Raza,2,3,20731,Origen_Racial
+486,Otra Raza,2,5,818,Origen_Racial
+487,Otra Raza,2,6,10780,Origen_Racial
+488,Otra Raza,3,3,701,Origen_Racial
+489,Otra Raza,3,4,1137,Origen_Racial
+490,Otra Raza,3,5,17430,Origen_Racial
+491,Otra Raza,3,6,4831,Origen_Racial
+492,Otra Raza,3,8,6079,Origen_Racial
+493,Otra Raza,3,9,356,Origen_Racial
+494,Otra Raza,4,1,2190,Origen_Racial
+495,Otra Raza,4,3,3087,Origen_Racial
+496,Otra Raza,4,4,5480,Origen_Racial
+497,Otra Raza,4,5,15285,Origen_Racial
+498,Otra Raza,4,6,14815,Origen_Racial
+499,Otra Raza,4,8,1170,Origen_Racial
+500,Otra Raza,5,5,6241,Origen_Racial
+501,Otra Raza,5,6,3806,Origen_Racial
+502,Otra Raza,5,7,5668,Origen_Racial
+503,Otra Raza,5,8,11637,Origen_Racial
+504,Otra Raza,6,1,1832,Origen_Racial
+505,Otra Raza,6,2,1195,Origen_Racial
+506,Otra Raza,6,3,846,Origen_Racial
+507,Otra Raza,6,4,1147,Origen_Racial
+508,Otra Raza,6,6,6034,Origen_Racial
+509,Otra Raza,6,7,1559,Origen_Racial
+510,Otra Raza,6,8,4813,Origen_Racial
+511,Otra Raza,6,9,3129,Origen_Racial
+512,Otra Raza,7,4,3154,Origen_Racial
+513,Otra Raza,7,5,5287,Origen_Racial
+514,Otra Raza,7,7,2426,Origen_Racial
+515,Otra Raza,7,8,5238,Origen_Racial
+516,Otra Raza,8,2,1806,Origen_Racial
+517,Otra Raza,8,3,1316,Origen_Racial
+518,Otra Raza,8,4,18988,Origen_Racial
+519,Otra Raza,8,5,34997,Origen_Racial
+520,Otra Raza,8,6,2813,Origen_Racial
+521,Otra Raza,8,7,1244,Origen_Racial
+522,Otra Raza,8,8,10095,Origen_Racial
+523,Otra Raza,9,6,8834,Origen_Racial
+524,Otra Raza,9,7,1178,Origen_Racial
+525,Otra Raza,9,8,435,Origen_Racial
+526,Otra Raza,9,9,2904,Origen_Racial
+527,Otra Raza,10,5,2640,Origen_Racial
+528,Otra Raza,10,7,406,Origen_Racial
+529,Otra Raza,10,8,1412,Origen_Racial
+530,Otra Raza,10,10,7665,Origen_Racial
