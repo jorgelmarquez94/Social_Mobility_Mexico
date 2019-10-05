@@ -46,6 +46,8 @@ info.update = function(props) {
             "</b><br />" +
             " Rank: "  + props.rank +
             "</b><br />" +
+            " Socioeconomic Level Improvement: "  + props.ppns +
+            "</b><br />" +
             props.provnum_ne +
             " people / m<sup>2</sup>" :
             "Select a State");
@@ -163,7 +165,7 @@ legend.onAdd = function(map) {
         to = grades[i + 1];
 
         labels.push(
-            '<i style = "background:' +
+            '<i style="background:' +
             getColor(from) +
             '"></i> ' +
             from +
