@@ -163,7 +163,7 @@ legend.onAdd = function(map) {
         to = grades[i + 1];
 
         labels.push(
-            '<i style="background:' +
+            '<i style = "background:' +
             getColor(from) +
             '"></i> ' +
             from +
