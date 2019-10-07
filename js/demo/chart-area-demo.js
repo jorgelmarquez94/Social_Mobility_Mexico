@@ -30,27 +30,47 @@ function number_format(number, decimals, dec_point, thousands_sep) {
 // Area Chart Example
 var ctx = document.getElementById("myAreaChart");
 var myLineChart = new Chart(ctx, {
-  type: 'line',
+type: 'pie',
   data: {
-    labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+     labels: ["Bajo 17.0%", "Medio Bajo 51.4%", "Medio Alto 21.8%", "Alto 9.8%"],
     datasets: [{
-      label: "Earnings",
-      lineTension: 0.3,
-      backgroundColor: "rgba(78, 115, 223, 0.05)",
-      borderColor: "rgba(78, 115, 223, 1)",
-      pointRadius: 3,
-      pointBackgroundColor: "rgba(78, 115, 223, 1)",
-      pointBorderColor: "rgba(78, 115, 223, 1)",
-      pointHoverRadius: 3,
-      pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
-      pointHoverBorderColor: "rgba(78, 115, 223, 1)",
-      pointHitRadius: 10,
-      pointBorderWidth: 2,
-      data: [0, 10000, 5000, 15000, 10000, 20000, 15000, 25000, 20000, 30000, 25000, 40000],
+      labels: ["Bajo", "Medio Bajo", "Medio Alto", "Alto"],
+      // lineTension: 0.3,
+      backgroundColor: ["#e74a3b","#f6c23e","#1cc88a", "#4e73df"],
+      // borderColor: "rgba(78, 115, 223, 1)",
+      // pointRadius: 3,
+      // pointBackgroundColor: "rgba(78, 115, 223, 1)",
+      // pointBorderColor: "rgba(78, 115, 223, 1)",
+      // pointHoverRadius: 3,
+      // pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+      // pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+      // pointHitRadius: 10,
+      // pointBorderWidth: 2,
+      data: [10491306, 31799699, 13455125, 6081339],
+      
     }],
-  },
-  options: {
-    maintainAspectRatio: false,
+  
+  // type: 'line',
+  // data: {
+  //   labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+  //   datasets: [{
+  //     label: "Earnings",
+  //     lineTension: 0.3,
+  //     backgroundColor: "rgba(78, 115, 223, 0.05)",
+  //     borderColor: "rgba(78, 115, 223, 1)",
+  //     pointRadius: 3,
+  //     pointBackgroundColor: "rgba(78, 115, 223, 1)",
+  //     pointBorderColor: "rgba(78, 115, 223, 1)",
+  //     pointHoverRadius: 3,
+  //     pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+  //     pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+  //     pointHitRadius: 10,
+  //     pointBorderWidth: 2,
+  //     data: [0, 10000, 5000, 15000, 10000, 20000, 15000, 25000, 20000, 30000, 25000, 40000],
+  //   }],
+  
+    options: {
+      maintainAspectRatio: false,
     layout: {
       padding: {
         left: 10,
@@ -59,28 +79,28 @@ var myLineChart = new Chart(ctx, {
         bottom: 0
       }
     },
-    scales: {
-      xAxes: [{
-        time: {
-          unit: 'date'
-        },
-        gridLines: {
-          display: false,
-          drawBorder: false
-        },
-        ticks: {
-          maxTicksLimit: 7
-        }
-      }],
-      yAxes: [{
-        ticks: {
-          maxTicksLimit: 5,
-          padding: 10,
-          // Include a dollar sign in the ticks
-          callback: function(value, index, values) {
-            return '$' + number_format(value);
-          }
-        },
+  //   scales: {
+  //     xAxes: [{
+  //       time: {
+  //         unit: 'date'
+  //       },
+  //       gridLines: {
+  //         display: false,
+  //         drawBorder: false
+  //       },
+  //       ticks: {
+  //         maxTicksLimit: 7
+  //       }
+  //     }],
+  //     yAxes: [{
+  //       ticks: {
+  //         maxTicksLimit: 5,
+  //         padding: 10,
+  //         Include a dollar sign in the ticks
+  //         callback: function(value, index, values) {
+  //           return '$' + number_format(value);
+  //         }
+  //       },
         gridLines: {
           color: "rgb(234, 236, 244)",
           zeroLineColor: "rgb(234, 236, 244)",
@@ -88,10 +108,10 @@ var myLineChart = new Chart(ctx, {
           borderDash: [2],
           zeroLineBorderDash: [2]
         }
-      }],
-    },
-    legend: {
-      display: false
+  //     }],
+  //   },
+  //   legend: {
+  //     display: false
     },
     tooltips: {
       backgroundColor: "rgb(255,255,255)",
