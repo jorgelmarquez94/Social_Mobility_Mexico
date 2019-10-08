@@ -1,7 +1,14 @@
 //------- Individual Sample Metadata Info and Gauge Chart
-function loadSankey(){
-  var url_gender=`/getMyJson`;
-  Plotly.d3.json(url_gender, function(fig){
+function getUrl() {
+  cadena = window.location.href;
+  url = cadena.replace("http://127.0.0.1:5000","");
+  loadSankey(url);
+}
+
+
+function loadSankey(url){
+  var url_final=url+"/getMyJson";
+  Plotly.d3.json(url_final, function(fig){
     console.log("total: "+Object.keys(fig.perspectiva_se_14_anios).length);
 
     var sources = []
@@ -73,7 +80,7 @@ function loadSankey(){
 }
 
 function init() {
-  loadSankey();
+  getUrl();
 }
 
 // Initialize the dashboard
