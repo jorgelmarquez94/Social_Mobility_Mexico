@@ -1,6 +1,7 @@
 import os
 
 import pandas as pd
+from pandas import DataFrame
 import numpy as np
 
 import sqlalchemy
@@ -11,22 +12,6 @@ from sqlalchemy import create_engine
 from flask import Flask, jsonify, render_template
 from flask_sqlalchemy import SQLAlchemy
 
-
-#################################################
-# Database Setup
-#################################################
-app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///MMSI_2016.sqlite"
-db = SQLAlchemy(app)
-#engine = create_engine("sqlite:///MMSI_2016.sqlite")
-
-# reflect an existing database into a new model
-Base = automap_base()
-# reflect the tables
-Base.prepare(engine, reflect=True)
-
-# Save reference to the table
-Demograficos = Base.classes.MMSI_2016_Demográficos
-
 #################################################
 # Flask Setup
 #################################################
@@ -34,29 +19,34 @@ app = Flask(__name__)
 
 
 #################################################
+# Database Setup
+#################################################
+engine = create_engine("sqlite:///MMSI_2016.sqlite")
+
+
+#################################################
 # Flask Routes
 #################################################
 
-@app.route("/")
-def welcome():
-    """Return a list of passenger data including the name, age, and sex of each passenger"""
-    # Query all demograficos
+@app.route("/gender")
+def index():
+    #Return the homepage.
+    return render_template("gender.html")
 
-    sel = [
-        Demograficos.Variable,
-        Demograficos.Factor_Expansión
-    ]
 
-    results = db.session.query(Demograficos.Variable,func.sum(Demograficos.Factor_Expansión).label('total')).filter(Demograficos.variable == 'Estrato_Socioeconómico').group_by(Demograficos.Variable).all()
+@app.route("/gender")
+def load_json():
+    """Return a list of specific demographic data"""
+    
+    results = engine.execute("SELECT Variable,Perspectiva_SE_14_años,Opinión_Situación_Económica,Factor_Expansión,Node_color,Link_color FROM MMSI_2016_Demográficos Where Demográfico = 'Sexo'")
 
     # Create a dictionary entry for each row of metadata information
-    all_estratos = {}
-    for result in results:
-        Demograficos["Variable"] = result[0]
-        Demograficos["Total"] = result[1]
+    df = DataFrame(results.fetchall())
+    df.columns = results.keys()
+    df = df.to_json()
 
-    print(all_estratos)
-    return jsonify(all_estratos)
+    print(df)
+    return jsonify(df)
 
 @app.route("/map")
 def map():
