@@ -1,0 +1,395 @@
+,Variable,Perspectiva_SE_14_años,Opinión_Situación_Económica,Factor_Expansión,Demográfico
+0,Alto,1,1,29329,Estrato_Socioeconómico
+1,Alto,1,2,43558,Estrato_Socioeconómico
+2,Alto,1,3,91262,Estrato_Socioeconómico
+3,Alto,1,4,37250,Estrato_Socioeconómico
+4,Alto,1,5,52831,Estrato_Socioeconómico
+5,Alto,1,6,34901,Estrato_Socioeconómico
+6,Alto,1,7,14196,Estrato_Socioeconómico
+7,Alto,1,8,6895,Estrato_Socioeconómico
+8,Alto,1,10,5703,Estrato_Socioeconómico
+9,Alto,2,1,546,Estrato_Socioeconómico
+10,Alto,2,2,21523,Estrato_Socioeconómico
+11,Alto,2,3,41881,Estrato_Socioeconómico
+12,Alto,2,4,93799,Estrato_Socioeconómico
+13,Alto,2,5,145889,Estrato_Socioeconómico
+14,Alto,2,6,85323,Estrato_Socioeconómico
+15,Alto,2,7,19686,Estrato_Socioeconómico
+16,Alto,2,8,15884,Estrato_Socioeconómico
+17,Alto,2,9,789,Estrato_Socioeconómico
+18,Alto,3,1,3745,Estrato_Socioeconómico
+19,Alto,3,2,1524,Estrato_Socioeconómico
+20,Alto,3,3,40711,Estrato_Socioeconómico
+21,Alto,3,4,67139,Estrato_Socioeconómico
+22,Alto,3,5,271167,Estrato_Socioeconómico
+23,Alto,3,6,146149,Estrato_Socioeconómico
+24,Alto,3,7,79426,Estrato_Socioeconómico
+25,Alto,3,8,12041,Estrato_Socioeconómico
+26,Alto,3,9,1867,Estrato_Socioeconómico
+27,Alto,3,10,3340,Estrato_Socioeconómico
+28,Alto,4,1,8184,Estrato_Socioeconómico
+29,Alto,4,2,1698,Estrato_Socioeconómico
+30,Alto,4,3,15960,Estrato_Socioeconómico
+31,Alto,4,4,93577,Estrato_Socioeconómico
+32,Alto,4,5,240758,Estrato_Socioeconómico
+33,Alto,4,6,187374,Estrato_Socioeconómico
+34,Alto,4,7,157401,Estrato_Socioeconómico
+35,Alto,4,8,59806,Estrato_Socioeconómico
+36,Alto,4,9,2210,Estrato_Socioeconómico
+37,Alto,4,10,5893,Estrato_Socioeconómico
+38,Alto,5,1,16411,Estrato_Socioeconómico
+39,Alto,5,2,7940,Estrato_Socioeconómico
+40,Alto,5,3,21230,Estrato_Socioeconómico
+41,Alto,5,4,71898,Estrato_Socioeconómico
+42,Alto,5,5,326894,Estrato_Socioeconómico
+43,Alto,5,6,160163,Estrato_Socioeconómico
+44,Alto,5,7,260611,Estrato_Socioeconómico
+45,Alto,5,8,148862,Estrato_Socioeconómico
+46,Alto,5,9,10748,Estrato_Socioeconómico
+47,Alto,5,10,1906,Estrato_Socioeconómico
+48,Alto,6,1,2980,Estrato_Socioeconómico
+49,Alto,6,2,12182,Estrato_Socioeconómico
+50,Alto,6,3,25195,Estrato_Socioeconómico
+51,Alto,6,4,58249,Estrato_Socioeconómico
+52,Alto,6,5,70324,Estrato_Socioeconómico
+53,Alto,6,6,221030,Estrato_Socioeconómico
+54,Alto,6,7,236206,Estrato_Socioeconómico
+55,Alto,6,8,142395,Estrato_Socioeconómico
+56,Alto,6,9,4056,Estrato_Socioeconómico
+57,Alto,6,10,8579,Estrato_Socioeconómico
+58,Alto,7,2,2060,Estrato_Socioeconómico
+59,Alto,7,3,4725,Estrato_Socioeconómico
+60,Alto,7,4,22073,Estrato_Socioeconómico
+61,Alto,7,5,148375,Estrato_Socioeconómico
+62,Alto,7,6,146009,Estrato_Socioeconómico
+63,Alto,7,7,239204,Estrato_Socioeconómico
+64,Alto,7,8,188983,Estrato_Socioeconómico
+65,Alto,7,9,24881,Estrato_Socioeconómico
+66,Alto,7,10,5360,Estrato_Socioeconómico
+67,Alto,8,1,16415,Estrato_Socioeconómico
+68,Alto,8,2,2087,Estrato_Socioeconómico
+69,Alto,8,3,6743,Estrato_Socioeconómico
+70,Alto,8,4,42512,Estrato_Socioeconómico
+71,Alto,8,5,158269,Estrato_Socioeconómico
+72,Alto,8,6,141491,Estrato_Socioeconómico
+73,Alto,8,7,201719,Estrato_Socioeconómico
+74,Alto,8,8,242907,Estrato_Socioeconómico
+75,Alto,8,9,6755,Estrato_Socioeconómico
+76,Alto,8,10,33505,Estrato_Socioeconómico
+77,Alto,9,1,773,Estrato_Socioeconómico
+78,Alto,9,2,1204,Estrato_Socioeconómico
+79,Alto,9,3,516,Estrato_Socioeconómico
+80,Alto,9,4,8916,Estrato_Socioeconómico
+81,Alto,9,5,33143,Estrato_Socioeconómico
+82,Alto,9,6,40542,Estrato_Socioeconómico
+83,Alto,9,7,76240,Estrato_Socioeconómico
+84,Alto,9,8,102551,Estrato_Socioeconómico
+85,Alto,9,9,18742,Estrato_Socioeconómico
+86,Alto,10,1,1350,Estrato_Socioeconómico
+87,Alto,10,2,3517,Estrato_Socioeconómico
+88,Alto,10,3,3699,Estrato_Socioeconómico
+89,Alto,10,4,19585,Estrato_Socioeconómico
+90,Alto,10,5,32136,Estrato_Socioeconómico
+91,Alto,10,6,42421,Estrato_Socioeconómico
+92,Alto,10,7,31666,Estrato_Socioeconómico
+93,Alto,10,8,47186,Estrato_Socioeconómico
+94,Alto,10,9,10103,Estrato_Socioeconómico
+95,Alto,10,10,23902,Estrato_Socioeconómico
+96,Bajo,1,1,1436486,Estrato_Socioeconómico
+97,Bajo,1,2,951909,Estrato_Socioeconómico
+98,Bajo,1,3,708073,Estrato_Socioeconómico
+99,Bajo,1,4,350516,Estrato_Socioeconómico
+100,Bajo,1,5,427122,Estrato_Socioeconómico
+101,Bajo,1,6,61241,Estrato_Socioeconómico
+102,Bajo,1,7,23370,Estrato_Socioeconómico
+103,Bajo,1,8,23814,Estrato_Socioeconómico
+104,Bajo,1,9,5079,Estrato_Socioeconómico
+105,Bajo,1,10,23415,Estrato_Socioeconómico
+106,Bajo,2,1,140235,Estrato_Socioeconómico
+107,Bajo,2,2,259990,Estrato_Socioeconómico
+108,Bajo,2,3,326345,Estrato_Socioeconómico
+109,Bajo,2,4,445743,Estrato_Socioeconómico
+110,Bajo,2,5,466581,Estrato_Socioeconómico
+111,Bajo,2,6,129602,Estrato_Socioeconómico
+112,Bajo,2,7,34087,Estrato_Socioeconómico
+113,Bajo,2,8,20982,Estrato_Socioeconómico
+114,Bajo,2,9,8840,Estrato_Socioeconómico
+115,Bajo,2,10,6663,Estrato_Socioeconómico
+116,Bajo,3,1,60584,Estrato_Socioeconómico
+117,Bajo,3,2,95125,Estrato_Socioeconómico
+118,Bajo,3,3,199877,Estrato_Socioeconómico
+119,Bajo,3,4,175169,Estrato_Socioeconómico
+120,Bajo,3,5,547720,Estrato_Socioeconómico
+121,Bajo,3,6,133912,Estrato_Socioeconómico
+122,Bajo,3,7,65892,Estrato_Socioeconómico
+123,Bajo,3,8,29803,Estrato_Socioeconómico
+124,Bajo,3,9,1030,Estrato_Socioeconómico
+125,Bajo,3,10,8278,Estrato_Socioeconómico
+126,Bajo,4,1,32593,Estrato_Socioeconómico
+127,Bajo,4,2,34912,Estrato_Socioeconómico
+128,Bajo,4,3,46953,Estrato_Socioeconómico
+129,Bajo,4,4,113912,Estrato_Socioeconómico
+130,Bajo,4,5,282645,Estrato_Socioeconómico
+131,Bajo,4,6,146810,Estrato_Socioeconómico
+132,Bajo,4,7,83854,Estrato_Socioeconómico
+133,Bajo,4,8,59930,Estrato_Socioeconómico
+134,Bajo,4,9,2016,Estrato_Socioeconómico
+135,Bajo,4,10,2913,Estrato_Socioeconómico
+136,Bajo,5,1,69196,Estrato_Socioeconómico
+137,Bajo,5,2,41972,Estrato_Socioeconómico
+138,Bajo,5,3,94354,Estrato_Socioeconómico
+139,Bajo,5,4,74256,Estrato_Socioeconómico
+140,Bajo,5,5,319921,Estrato_Socioeconómico
+141,Bajo,5,6,97987,Estrato_Socioeconómico
+142,Bajo,5,7,200518,Estrato_Socioeconómico
+143,Bajo,5,8,74371,Estrato_Socioeconómico
+144,Bajo,5,9,7024,Estrato_Socioeconómico
+145,Bajo,5,10,24517,Estrato_Socioeconómico
+146,Bajo,6,1,13761,Estrato_Socioeconómico
+147,Bajo,6,2,21691,Estrato_Socioeconómico
+148,Bajo,6,3,34006,Estrato_Socioeconómico
+149,Bajo,6,4,56820,Estrato_Socioeconómico
+150,Bajo,6,5,119581,Estrato_Socioeconómico
+151,Bajo,6,6,94994,Estrato_Socioeconómico
+152,Bajo,6,7,88028,Estrato_Socioeconómico
+153,Bajo,6,8,91115,Estrato_Socioeconómico
+154,Bajo,6,9,9452,Estrato_Socioeconómico
+155,Bajo,6,10,18689,Estrato_Socioeconómico
+156,Bajo,7,1,22239,Estrato_Socioeconómico
+157,Bajo,7,2,19690,Estrato_Socioeconómico
+158,Bajo,7,3,10738,Estrato_Socioeconómico
+159,Bajo,7,4,31960,Estrato_Socioeconómico
+160,Bajo,7,5,101705,Estrato_Socioeconómico
+161,Bajo,7,6,27523,Estrato_Socioeconómico
+162,Bajo,7,7,65765,Estrato_Socioeconómico
+163,Bajo,7,8,56574,Estrato_Socioeconómico
+164,Bajo,7,9,6777,Estrato_Socioeconómico
+165,Bajo,7,10,10688,Estrato_Socioeconómico
+166,Bajo,8,1,6064,Estrato_Socioeconómico
+167,Bajo,8,2,17115,Estrato_Socioeconómico
+168,Bajo,8,3,20578,Estrato_Socioeconómico
+169,Bajo,8,4,29309,Estrato_Socioeconómico
+170,Bajo,8,5,82194,Estrato_Socioeconómico
+171,Bajo,8,6,37943,Estrato_Socioeconómico
+172,Bajo,8,7,50445,Estrato_Socioeconómico
+173,Bajo,8,8,47013,Estrato_Socioeconómico
+174,Bajo,8,9,17393,Estrato_Socioeconómico
+175,Bajo,8,10,16779,Estrato_Socioeconómico
+176,Bajo,9,1,5554,Estrato_Socioeconómico
+177,Bajo,9,3,8679,Estrato_Socioeconómico
+178,Bajo,9,4,6349,Estrato_Socioeconómico
+179,Bajo,9,5,25084,Estrato_Socioeconómico
+180,Bajo,9,6,19921,Estrato_Socioeconómico
+181,Bajo,9,7,15944,Estrato_Socioeconómico
+182,Bajo,9,8,10646,Estrato_Socioeconómico
+183,Bajo,9,9,15452,Estrato_Socioeconómico
+184,Bajo,9,10,6308,Estrato_Socioeconómico
+185,Bajo,10,1,15231,Estrato_Socioeconómico
+186,Bajo,10,2,7438,Estrato_Socioeconómico
+187,Bajo,10,3,5247,Estrato_Socioeconómico
+188,Bajo,10,4,9255,Estrato_Socioeconómico
+189,Bajo,10,5,29598,Estrato_Socioeconómico
+190,Bajo,10,6,6411,Estrato_Socioeconómico
+191,Bajo,10,7,25374,Estrato_Socioeconómico
+192,Bajo,10,8,21073,Estrato_Socioeconómico
+193,Bajo,10,9,3472,Estrato_Socioeconómico
+194,Bajo,10,10,49504,Estrato_Socioeconómico
+195,Medio alto,1,1,211699,Estrato_Socioeconómico
+196,Medio alto,1,2,94194,Estrato_Socioeconómico
+197,Medio alto,1,3,234208,Estrato_Socioeconómico
+198,Medio alto,1,4,191947,Estrato_Socioeconómico
+199,Medio alto,1,5,243031,Estrato_Socioeconómico
+200,Medio alto,1,6,74336,Estrato_Socioeconómico
+201,Medio alto,1,7,37884,Estrato_Socioeconómico
+202,Medio alto,1,8,17601,Estrato_Socioeconómico
+203,Medio alto,1,9,2834,Estrato_Socioeconómico
+204,Medio alto,1,10,1845,Estrato_Socioeconómico
+205,Medio alto,2,1,17832,Estrato_Socioeconómico
+206,Medio alto,2,2,40150,Estrato_Socioeconómico
+207,Medio alto,2,3,161469,Estrato_Socioeconómico
+208,Medio alto,2,4,382733,Estrato_Socioeconómico
+209,Medio alto,2,5,405478,Estrato_Socioeconómico
+210,Medio alto,2,6,142615,Estrato_Socioeconómico
+211,Medio alto,2,7,69862,Estrato_Socioeconómico
+212,Medio alto,2,8,29285,Estrato_Socioeconómico
+213,Medio alto,2,9,6777,Estrato_Socioeconómico
+214,Medio alto,2,10,3011,Estrato_Socioeconómico
+215,Medio alto,3,1,29843,Estrato_Socioeconómico
+216,Medio alto,3,2,29004,Estrato_Socioeconómico
+217,Medio alto,3,3,144889,Estrato_Socioeconómico
+218,Medio alto,3,4,223161,Estrato_Socioeconómico
+219,Medio alto,3,5,877905,Estrato_Socioeconómico
+220,Medio alto,3,6,272824,Estrato_Socioeconómico
+221,Medio alto,3,7,187449,Estrato_Socioeconómico
+222,Medio alto,3,8,39079,Estrato_Socioeconómico
+223,Medio alto,3,9,7468,Estrato_Socioeconómico
+224,Medio alto,3,10,922,Estrato_Socioeconómico
+225,Medio alto,4,1,21366,Estrato_Socioeconómico
+226,Medio alto,4,2,17843,Estrato_Socioeconómico
+227,Medio alto,4,3,49650,Estrato_Socioeconómico
+228,Medio alto,4,4,171814,Estrato_Socioeconómico
+229,Medio alto,4,5,442519,Estrato_Socioeconómico
+230,Medio alto,4,6,425510,Estrato_Socioeconómico
+231,Medio alto,4,7,280206,Estrato_Socioeconómico
+232,Medio alto,4,8,101725,Estrato_Socioeconómico
+233,Medio alto,4,9,8739,Estrato_Socioeconómico
+234,Medio alto,5,1,46949,Estrato_Socioeconómico
+235,Medio alto,5,2,23812,Estrato_Socioeconómico
+236,Medio alto,5,3,94681,Estrato_Socioeconómico
+237,Medio alto,5,4,141220,Estrato_Socioeconómico
+238,Medio alto,5,5,730333,Estrato_Socioeconómico
+239,Medio alto,5,6,330449,Estrato_Socioeconómico
+240,Medio alto,5,7,602367,Estrato_Socioeconómico
+241,Medio alto,5,8,246740,Estrato_Socioeconómico
+242,Medio alto,5,9,18411,Estrato_Socioeconómico
+243,Medio alto,5,10,11328,Estrato_Socioeconómico
+244,Medio alto,6,1,13637,Estrato_Socioeconómico
+245,Medio alto,6,2,11774,Estrato_Socioeconómico
+246,Medio alto,6,3,53971,Estrato_Socioeconómico
+247,Medio alto,6,4,123202,Estrato_Socioeconómico
+248,Medio alto,6,5,199008,Estrato_Socioeconómico
+249,Medio alto,6,6,335674,Estrato_Socioeconómico
+250,Medio alto,6,7,362514,Estrato_Socioeconómico
+251,Medio alto,6,8,300348,Estrato_Socioeconómico
+252,Medio alto,6,9,17741,Estrato_Socioeconómico
+253,Medio alto,6,10,7237,Estrato_Socioeconómico
+254,Medio alto,7,1,2559,Estrato_Socioeconómico
+255,Medio alto,7,2,17369,Estrato_Socioeconómico
+256,Medio alto,7,3,26841,Estrato_Socioeconómico
+257,Medio alto,7,4,142448,Estrato_Socioeconómico
+258,Medio alto,7,5,321263,Estrato_Socioeconómico
+259,Medio alto,7,6,234876,Estrato_Socioeconómico
+260,Medio alto,7,7,483528,Estrato_Socioeconómico
+261,Medio alto,7,8,212232,Estrato_Socioeconómico
+262,Medio alto,7,9,18563,Estrato_Socioeconómico
+263,Medio alto,7,10,5962,Estrato_Socioeconómico
+264,Medio alto,8,1,19187,Estrato_Socioeconómico
+265,Medio alto,8,2,13442,Estrato_Socioeconómico
+266,Medio alto,8,3,30466,Estrato_Socioeconómico
+267,Medio alto,8,4,94216,Estrato_Socioeconómico
+268,Medio alto,8,5,316546,Estrato_Socioeconómico
+269,Medio alto,8,6,345722,Estrato_Socioeconómico
+270,Medio alto,8,7,339839,Estrato_Socioeconómico
+271,Medio alto,8,8,362512,Estrato_Socioeconómico
+272,Medio alto,8,9,45473,Estrato_Socioeconómico
+273,Medio alto,8,10,11977,Estrato_Socioeconómico
+274,Medio alto,9,1,14289,Estrato_Socioeconómico
+275,Medio alto,9,2,15429,Estrato_Socioeconómico
+276,Medio alto,9,3,13212,Estrato_Socioeconómico
+277,Medio alto,9,4,35373,Estrato_Socioeconómico
+278,Medio alto,9,5,88408,Estrato_Socioeconómico
+279,Medio alto,9,6,113175,Estrato_Socioeconómico
+280,Medio alto,9,7,183662,Estrato_Socioeconómico
+281,Medio alto,9,8,156082,Estrato_Socioeconómico
+282,Medio alto,9,9,31143,Estrato_Socioeconómico
+283,Medio alto,9,10,3001,Estrato_Socioeconómico
+284,Medio alto,10,1,25477,Estrato_Socioeconómico
+285,Medio alto,10,2,7932,Estrato_Socioeconómico
+286,Medio alto,10,3,15750,Estrato_Socioeconómico
+287,Medio alto,10,4,13977,Estrato_Socioeconómico
+288,Medio alto,10,5,83821,Estrato_Socioeconómico
+289,Medio alto,10,6,65916,Estrato_Socioeconómico
+290,Medio alto,10,7,60273,Estrato_Socioeconómico
+291,Medio alto,10,8,67267,Estrato_Socioeconómico
+292,Medio alto,10,9,19462,Estrato_Socioeconómico
+293,Medio alto,10,10,24352,Estrato_Socioeconómico
+294,Medio bajo,1,1,1185945,Estrato_Socioeconómico
+295,Medio bajo,1,2,934039,Estrato_Socioeconómico
+296,Medio bajo,1,3,1241843,Estrato_Socioeconómico
+297,Medio bajo,1,4,764639,Estrato_Socioeconómico
+298,Medio bajo,1,5,1005120,Estrato_Socioeconómico
+299,Medio bajo,1,6,244422,Estrato_Socioeconómico
+300,Medio bajo,1,7,125459,Estrato_Socioeconómico
+301,Medio bajo,1,8,83680,Estrato_Socioeconómico
+302,Medio bajo,1,9,23623,Estrato_Socioeconómico
+303,Medio bajo,1,10,39019,Estrato_Socioeconómico
+304,Medio bajo,2,1,211189,Estrato_Socioeconómico
+305,Medio bajo,2,2,443689,Estrato_Socioeconómico
+306,Medio bajo,2,3,646695,Estrato_Socioeconómico
+307,Medio bajo,2,4,1054953,Estrato_Socioeconómico
+308,Medio bajo,2,5,1273893,Estrato_Socioeconómico
+309,Medio bajo,2,6,401992,Estrato_Socioeconómico
+310,Medio bajo,2,7,201572,Estrato_Socioeconómico
+311,Medio bajo,2,8,48183,Estrato_Socioeconómico
+312,Medio bajo,2,9,17361,Estrato_Socioeconómico
+313,Medio bajo,2,10,1599,Estrato_Socioeconómico
+314,Medio bajo,3,1,126920,Estrato_Socioeconómico
+315,Medio bajo,3,2,193792,Estrato_Socioeconómico
+316,Medio bajo,3,3,475036,Estrato_Socioeconómico
+317,Medio bajo,3,4,773354,Estrato_Socioeconómico
+318,Medio bajo,3,5,2118818,Estrato_Socioeconómico
+319,Medio bajo,3,6,692434,Estrato_Socioeconómico
+320,Medio bajo,3,7,384548,Estrato_Socioeconómico
+321,Medio bajo,3,8,154481,Estrato_Socioeconómico
+322,Medio bajo,3,9,20488,Estrato_Socioeconómico
+323,Medio bajo,3,10,6107,Estrato_Socioeconómico
+324,Medio bajo,4,1,122711,Estrato_Socioeconómico
+325,Medio bajo,4,2,123960,Estrato_Socioeconómico
+326,Medio bajo,4,3,143424,Estrato_Socioeconómico
+327,Medio bajo,4,4,589729,Estrato_Socioeconómico
+328,Medio bajo,4,5,1069756,Estrato_Socioeconómico
+329,Medio bajo,4,6,1034969,Estrato_Socioeconómico
+330,Medio bajo,4,7,645541,Estrato_Socioeconómico
+331,Medio bajo,4,8,224988,Estrato_Socioeconómico
+332,Medio bajo,4,9,5657,Estrato_Socioeconómico
+333,Medio bajo,4,10,9978,Estrato_Socioeconómico
+334,Medio bajo,5,1,182001,Estrato_Socioeconómico
+335,Medio bajo,5,2,120301,Estrato_Socioeconómico
+336,Medio bajo,5,3,264150,Estrato_Socioeconómico
+337,Medio bajo,5,4,285333,Estrato_Socioeconómico
+338,Medio bajo,5,5,1501233,Estrato_Socioeconómico
+339,Medio bajo,5,6,657739,Estrato_Socioeconómico
+340,Medio bajo,5,7,943781,Estrato_Socioeconómico
+341,Medio bajo,5,8,344743,Estrato_Socioeconómico
+342,Medio bajo,5,9,23248,Estrato_Socioeconómico
+343,Medio bajo,5,10,12166,Estrato_Socioeconómico
+344,Medio bajo,6,1,78542,Estrato_Socioeconómico
+345,Medio bajo,6,2,57135,Estrato_Socioeconómico
+346,Medio bajo,6,3,174115,Estrato_Socioeconómico
+347,Medio bajo,6,4,366482,Estrato_Socioeconómico
+348,Medio bajo,6,5,334045,Estrato_Socioeconómico
+349,Medio bajo,6,6,640604,Estrato_Socioeconómico
+350,Medio bajo,6,7,353278,Estrato_Socioeconómico
+351,Medio bajo,6,8,435894,Estrato_Socioeconómico
+352,Medio bajo,6,9,21640,Estrato_Socioeconómico
+353,Medio bajo,6,10,14313,Estrato_Socioeconómico
+354,Medio bajo,7,1,38231,Estrato_Socioeconómico
+355,Medio bajo,7,2,39896,Estrato_Socioeconómico
+356,Medio bajo,7,3,92639,Estrato_Socioeconómico
+357,Medio bajo,7,4,229229,Estrato_Socioeconómico
+358,Medio bajo,7,5,551204,Estrato_Socioeconómico
+359,Medio bajo,7,6,271670,Estrato_Socioeconómico
+360,Medio bajo,7,7,515023,Estrato_Socioeconómico
+361,Medio bajo,7,8,274556,Estrato_Socioeconómico
+362,Medio bajo,7,9,45729,Estrato_Socioeconómico
+363,Medio bajo,7,10,14856,Estrato_Socioeconómico
+364,Medio bajo,8,1,83643,Estrato_Socioeconómico
+365,Medio bajo,8,2,81773,Estrato_Socioeconómico
+366,Medio bajo,8,3,113410,Estrato_Socioeconómico
+367,Medio bajo,8,4,171236,Estrato_Socioeconómico
+368,Medio bajo,8,5,646383,Estrato_Socioeconómico
+369,Medio bajo,8,6,388596,Estrato_Socioeconómico
+370,Medio bajo,8,7,392984,Estrato_Socioeconómico
+371,Medio bajo,8,8,398098,Estrato_Socioeconómico
+372,Medio bajo,8,9,34165,Estrato_Socioeconómico
+373,Medio bajo,8,10,12033,Estrato_Socioeconómico
+374,Medio bajo,9,1,15208,Estrato_Socioeconómico
+375,Medio bajo,9,2,37989,Estrato_Socioeconómico
+376,Medio bajo,9,3,17383,Estrato_Socioeconómico
+377,Medio bajo,9,4,65720,Estrato_Socioeconómico
+378,Medio bajo,9,5,148500,Estrato_Socioeconómico
+379,Medio bajo,9,6,119623,Estrato_Socioeconómico
+380,Medio bajo,9,7,371050,Estrato_Socioeconómico
+381,Medio bajo,9,8,183856,Estrato_Socioeconómico
+382,Medio bajo,9,9,32254,Estrato_Socioeconómico
+383,Medio bajo,9,10,1563,Estrato_Socioeconómico
+384,Medio bajo,10,1,51295,Estrato_Socioeconómico
+385,Medio bajo,10,2,16324,Estrato_Socioeconómico
+386,Medio bajo,10,3,38686,Estrato_Socioeconómico
+387,Medio bajo,10,4,50806,Estrato_Socioeconómico
+388,Medio bajo,10,5,162986,Estrato_Socioeconómico
+389,Medio bajo,10,6,63155,Estrato_Socioeconómico
+390,Medio bajo,10,7,92732,Estrato_Socioeconómico
+391,Medio bajo,10,8,140309,Estrato_Socioeconómico
+392,Medio bajo,10,9,63168,Estrato_Socioeconómico
+393,Medio bajo,10,10,55389,Estrato_Socioeconómico
