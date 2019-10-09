@@ -156,6 +156,15 @@
             <h1 class="h3 mb-0 text-gray-800">Sankey Diagram by Indigenous Languages</h1>
           </div>
 
+          <div class="row">
+            <div class="col-md-2">
+              <div class="well">
+                <h5>Selecciona la variable:</h5>
+                  <select id="selDataset" onchange="optionChanged(this.value)"></select>
+              </div>
+            </div>
+          </div>
+
           <!-- The div where we will inject our map -->
           <div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
 
